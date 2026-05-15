@@ -1,7 +1,6 @@
 variable "code_bucket_name" {
     description = "The name of the bucket"
     type = string
-    default = "code-bucket-pengool123-2026"
 }
 
 variable "backup_vault_name" {
