@@ -7,7 +7,7 @@ A Terraform module that makes automated AWS backup jobs for an S3 bucket with re
 AWS Backup (scheduled job)
         │
         ▼
-  Backup Vault  ──► Vault Notifications<br/>
+  Backup Vault  ──► Vault Notifications
                             │
                             ▼
                        SNS Topic (backup-notification)
